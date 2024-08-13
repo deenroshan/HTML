@@ -1,0 +1,15 @@
+html basic program 
+h1 
+p 
+br 
+html links 
+html images
+hr
+html styles 
+-font size
+-font color
+bg color 
+font 
+h1 font size
+text alignment 
+
